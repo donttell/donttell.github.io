@@ -44,4 +44,4 @@ It is nothing but a source of stress for the recipient.
 
 - Person A says "Can I tell you something?"
 
-This is the problem with "We need to talk l" & "[Don't ask to ask](https://dontasktoask.com)" combined into one. Twice as problematic.
+This is the problem with "We need to talk" & "[Don't ask to ask](https://dontasktoask.com)" combined into one. Twice as problematic.
